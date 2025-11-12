@@ -2,8 +2,10 @@
 
 This project analyzes subway delay patterns in Toronto using real TTC delay data from 2025. It explores which stations, lines, directions, and times of day are most affected — helping identify reliability issues and operational bottlenecks.
 
-##🙌 Acknowledgments
-Data for this project was sourced from the City of Toronto Open Data Portal, specifically the TTC Subway Delay Data since 2025 dataset. Special thanks to the City of Toronto and the TTC for making this data publicly available.
+## 🙌 Acknowledgments
+
+Data for this project was sourced from the [City of Toronto Open Data Portal](https://open.toronto.ca/), specifically the [TTC Subway Delay Data since 2025](https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/996cfe8d-fb35-40ce-b569-698d51fc683b/resource/0b6e5c52-e993-46d6-8d74-8602ee224457/download/TTC%20Subway%20Delay%20Data%20since%202025.csv) dataset.  
+Special thanks to the City of Toronto and the TTC for making this data publicly available.
 
 ## 📊 Key Questions Answered
 
